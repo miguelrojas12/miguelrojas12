@@ -1,7 +1,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://xclcamps.com/blog/coding-vs-programming-what-is-the-difference-especially-for-kids/)">
  <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://codinginthewild.com/coding-in-economics-47bc90ceb246/)">
- <img alt="Miguel's Github Profile" src="YOUR-DEFAULT-IMAGE">
+ <img alt="Miguel's Github Profile" src="[YOUR-DEFAULT-IMAGE](https://www.21kschool.com/us/blog/15-facts-about-coding/)">
 </picture>
 
 # Miguel Rojas Saavedra
